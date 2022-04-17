@@ -2,7 +2,7 @@
 - 👀 I’m interested in (Metaverse AR/VR)(Robotics) (AI Healthcare) (ML) (DL) (CV)
 - 🌱 I’m currently learning Msc applied machine learning in EEE department.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 1142456038@qq.com
+- 📫 How to reach me sunendong2021@gmail.com
 
 <!---
 Anthony-EEE/Anthony-EEE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
