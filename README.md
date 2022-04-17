@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anthony-EEE
 - 👀 I’m interested in (Metaverse AR/VR)(Robotics) (AI Healthcare) (ML) (DL) (CV)
-- 🌱 I’m currently learning Msc applied machine learning in EEE department.
+- 🌱 I’m currently learning Msc applied machine learning in EEE department @Imperial College London.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sunendong2021@gmail.com
 
